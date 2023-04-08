@@ -1,0 +1,22 @@
+{
+    "Clientes":[
+        {
+            "Nome":"Maria",
+            "Sabor":"Chocolate",
+            "Confeitado":"Não",
+            "Valor":"85.00"
+        },
+        {
+            "Nome":"Gusmira",
+            "Sabor":"Limão",
+            "Confeitado":"Sim",
+            "Valor":"110.00"
+        },
+        {
+            "Nome":"Teodoro",
+            "Sabor":"Morango",
+            "Confeitado":"Não",
+            "Valor":"20.00"
+        }
+    ]
+}
